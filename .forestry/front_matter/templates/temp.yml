@@ -16,4 +16,5 @@ fields:
   name: created
   label: created
 pages:
+- pags.md
 - _posts/post.md
